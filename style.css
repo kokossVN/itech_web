@@ -10,7 +10,7 @@
     margin: auto;
     /* padding: 5px; */
     width: 100%;
-    position: relative;
+    position: absolute;
     left: 0;
     right: 0;
     top: 0;
@@ -81,7 +81,7 @@ ul.topnav li a:link {
     display: flex;
     justify-content: center;
     align-items: center;
-    float: left;
+    float: ;
 
 }
 
